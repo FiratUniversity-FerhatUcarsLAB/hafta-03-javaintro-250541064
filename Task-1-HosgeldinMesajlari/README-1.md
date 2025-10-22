@@ -1,0 +1,3 @@
+öğrenci no: 250541064
+ad-soyad: Muhammet Eren Alptekin
+Bu ödev kapsamında Java programlama diline giriş yaparak temel çıktı işlemleri, döngü yapısı ve karakterlerle desen oluşturma konularını uygulamalı olarak öğrendim. İlk olarak, System.out.println() komutunu kullanarak ekrana üç farklı mesaj yazdırarak Java’da metin çıktısı üretmeyi deneyimledim. Ardından, aynı mesajı beş kez tekrarlayarak döngülerin nasıl çalıştığını ve kod tekrarını nasıl önlediğini kavradım. Son olarak, “JAVA” kelimesini satır satır düzenleyerek bir desen oluşturdum; bu adımda karakter hizalama, boşluk kullanımı ve görsel düşünme becerilerimi geliştirdim. Bu ödevler sayesinde hem temel sözdizimini hem de algoritmik düşünmeyi pekiştirerek Java’ya sağlam bir başlangıç yaptım.
